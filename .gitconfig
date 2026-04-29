@@ -1,0 +1,6 @@
+[user]
+    name = PLACEHOLDER pnkpwnclb
+    email = placeholder-pnkpwnclb@example.com
+
+[core]
+    sshCommand = ssh -i /home/user/.ssh/id_rsa_pnkpwnclb -o IdentitiesOnly=yes
