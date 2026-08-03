@@ -6,7 +6,7 @@ REPO_NAME="stunning-disco"
 BRANCH="main"
 DOMAIN="pnkpwn.club"
 
-GITHUB_TOKEN="GITHUB_TOKEN_REDACTED"
+GITHUB_TOKEN="${GITHUB_TOKEN:?set the GITHUB_TOKEN env var before running}"
 
 
 # ===== STEP 1: Push local site =====
